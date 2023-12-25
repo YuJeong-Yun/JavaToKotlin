@@ -21,6 +21,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "YuJeong-Yun"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b6968c84-7374-4acb-830f-a966d6ca272a" />
+        <option name="url" value="https://github.com/YuJeong-Yun/JavaToKotlin.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -62,7 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1703181359642</updated>
       <workItem from="1703181360643" duration="1034000" />
-      <workItem from="1703525062063" duration="2310000" />
+      <workItem from="1703525062063" duration="3064000" />
+      <workItem from="1703528421176" duration="3795000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -80,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703182394754</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="02.null값">
+      <option name="closed" value="true" />
+      <created>1703528357804</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703528357804</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="01.변수" />
-    <option name="LAST_COMMIT_MESSAGE" value="01.변수" />
+    <MESSAGE value="02.null값" />
+    <option name="LAST_COMMIT_MESSAGE" value="02.null값" />
   </component>
 </project>
