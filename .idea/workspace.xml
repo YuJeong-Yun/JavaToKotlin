@@ -59,6 +59,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -81,7 +82,9 @@
       <workItem from="1703525062063" duration="3064000" />
       <workItem from="1703528421176" duration="3857000" />
       <workItem from="1703611879784" duration="1148000" />
-      <workItem from="1703613768745" duration="1012000" />
+      <workItem from="1703613768745" duration="2651000" />
+      <workItem from="1703617031213" duration="79000" />
+      <workItem from="1703617115879" duration="1243000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -115,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703532441286</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="04.연산자">
+      <option name="closed" value="true" />
+      <created>1703614822173</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703614822173</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +148,7 @@
     <MESSAGE value="01.변수" />
     <MESSAGE value="02.null값" />
     <MESSAGE value="03.Type" />
-    <option name="LAST_COMMIT_MESSAGE" value="03.Type" />
+    <MESSAGE value="04.연산자" />
+    <option name="LAST_COMMIT_MESSAGE" value="04.연산자" />
   </component>
 </project>
