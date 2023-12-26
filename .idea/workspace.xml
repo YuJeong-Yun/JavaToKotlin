@@ -84,7 +84,8 @@
       <workItem from="1703611879784" duration="1148000" />
       <workItem from="1703613768745" duration="2651000" />
       <workItem from="1703617031213" duration="79000" />
-      <workItem from="1703617115879" duration="1243000" />
+      <workItem from="1703617115879" duration="1866000" />
+      <workItem from="1703619539579" duration="436000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -126,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703614822173</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="05.제어문">
+      <option name="closed" value="true" />
+      <created>1703618374352</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703618374352</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +158,7 @@
     <MESSAGE value="02.null값" />
     <MESSAGE value="03.Type" />
     <MESSAGE value="04.연산자" />
-    <option name="LAST_COMMIT_MESSAGE" value="04.연산자" />
+    <MESSAGE value="05.제어문" />
+    <option name="LAST_COMMIT_MESSAGE" value="05.제어문" />
   </component>
 </project>
