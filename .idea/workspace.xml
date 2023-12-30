@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -56,10 +56,10 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.kotlinCompiler&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -70,6 +70,25 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ch03/OOP" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="K_클래스Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.OOP.K_클래스Kt" />
+      <module name="JavaToKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.K_클래스Kt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,7 +107,14 @@
       <workItem from="1703619539579" duration="511000" />
       <workItem from="1703620054460" duration="2990000" />
       <workItem from="1703623264001" duration="288000" />
-      <workItem from="1703681933871" duration="5439000" />
+      <workItem from="1703681933871" duration="5731000" />
+      <workItem from="1703774646290" duration="3556000" />
+      <workItem from="1703811133745" duration="1235000" />
+      <workItem from="1703825339605" duration="67000" />
+      <workItem from="1703827367311" duration="186000" />
+      <workItem from="1703931061834" duration="6720000" />
+      <workItem from="1703943095817" duration="2058000" />
+      <workItem from="1703945161940" duration="1634000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -162,7 +188,39 @@
       <option name="project" value="LOCAL" />
       <updated>1703623542243</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="09.클래스">
+      <option name="closed" value="true" />
+      <created>1703687466510</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703687466510</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ch03 파일 위치 정정">
+      <option name="closed" value="true" />
+      <created>1703934826883</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703934826883</updated>
+    </task>
+    <task id="LOCAL-00012" summary="필요 없는 자바 파일 삭제">
+      <option name="closed" value="true" />
+      <created>1703941933012</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703941933012</updated>
+    </task>
+    <task id="LOCAL-00013" summary="필요 없는 자바 파일 삭제">
+      <option name="closed" value="true" />
+      <created>1703944075543</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703944075543</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +247,9 @@
     <MESSAGE value="06.반복문" />
     <MESSAGE value="07.예외" />
     <MESSAGE value="08.함수" />
-    <option name="LAST_COMMIT_MESSAGE" value="08.함수" />
+    <MESSAGE value="09.클래스" />
+    <MESSAGE value="ch03 파일 위치 정정" />
+    <MESSAGE value="필요 없는 자바 파일 삭제" />
+    <option name="LAST_COMMIT_MESSAGE" value="필요 없는 자바 파일 삭제" />
   </component>
 </project>
