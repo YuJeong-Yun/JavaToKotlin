@@ -5,7 +5,7 @@ class K_Null값 {
         ////////// Safe Call
         // null이 아니면 실행하고, null이면 실행하지 않는다(결과값은 그대로 null)
         val str: String? = null
-        str.length // 불가능
+        // str.length // 불가능
         str?.length // 가능
 
         ////////// Elvis 연산자
@@ -57,6 +57,8 @@ class K_Null값 {
 
         number ?: return 0
         // ~~디음 로직
+
+        return 0L;
     }
 
     ////////// 널 아님 단언 (ex.nullable인 필드가 업데이트 후 null이 될 수 없는 필드로 바뀐 경우)

@@ -4,7 +4,7 @@ import org.jetbrains.annotations.NotNull;
 
 import java.util.Objects;
 
-class JavaMoney implements Comparable<JavaMoney> {
+public class JavaMoney implements Comparable<JavaMoney> {
 
     private final long amount;
 
