@@ -47,37 +47,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.kotlinCompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.kotlinCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/ch03/OOP" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.K_배열과컬렉션Kt">
+  <component name="RunManager">
     <configuration name="K_클래스Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch03.OOP.K_클래스Kt" />
       <module name="JavaToKotlin" />
@@ -94,7 +94,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.K_배열과컬렉션Kt" />
         <item itemvalue="Kotlin.K_클래스Kt" />
       </list>
     </recent_temporary>
@@ -126,7 +125,9 @@
       <workItem from="1703943095817" duration="2058000" />
       <workItem from="1703945161940" duration="1843000" />
       <workItem from="1703948103730" duration="7278000" />
-      <workItem from="1703957637379" duration="1600000" />
+      <workItem from="1703957637379" duration="1629000" />
+      <workItem from="1703959275300" duration="1218000" />
+      <workItem from="1704122062624" duration="1477000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -296,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703957565752</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="15.배열과 컬렉션">
+      <option name="closed" value="true" />
+      <created>1703959261552</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1703959261552</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,6 +340,7 @@
     <MESSAGE value="12.object 키워드" />
     <MESSAGE value="13.중첩 클래스" />
     <MESSAGE value="14.다양한 클래스" />
-    <option name="LAST_COMMIT_MESSAGE" value="14.다양한 클래스" />
+    <MESSAGE value="15.배열과 컬렉션" />
+    <option name="LAST_COMMIT_MESSAGE" value="15.배열과 컬렉션" />
   </component>
 </project>
