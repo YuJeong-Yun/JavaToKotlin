@@ -7,7 +7,23 @@ class K_람다 {
 // 함수는 자바에서는 2급 시민이지만, 코틀린에서는 1급 시민이다.
 // => 코틀린은 자바와는 다르게 함수가 그 자체로 값이 될 수 있다
 // => 변수에 할당할 수도, 파라미터로 넘길 수도 있다
-class Fruit(val name: String, val price: Int)
+class Fruit(val name: String, val price: Int) {
+    constructor(id: Long, name: String, price: Int) : this(name, price) {
+        this.id = id
+    }
+
+    val currentPrice: Int = price
+    var id: Long = 0L
+
+    // 18강 참조...
+    fun nullOrValue(): Int? {
+        return 0
+    }
+
+    val isSamePrice: Boolean
+        get() = price == currentPrice
+}
+
 
 val fruits = listOf(
     Fruit("사과", 1_000),
@@ -65,7 +81,6 @@ fun main4() {
     // 익명 함수 사용 시 파라미터가 한 개 이면 그냥 it 으로 사용 가능
     filterFruits(fruits) { it.name == "사과" }
 }
-
 
 
 //////////////////// Closure ////////////////////

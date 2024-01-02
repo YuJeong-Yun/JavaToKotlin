@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="971bbd38-1b62-485c-9611-02b567e09ca4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/FP/K_람다.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/FP/K_람다.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +128,11 @@
       <workItem from="1703948103730" duration="7278000" />
       <workItem from="1703957637379" duration="1629000" />
       <workItem from="1703959275300" duration="1218000" />
-      <workItem from="1704122062624" duration="3687000" />
+      <workItem from="1704122062624" duration="5450000" />
+      <workItem from="1704127659708" duration="988000" />
+      <workItem from="1704157041301" duration="256000" />
+      <workItem from="1704157345922" duration="594000" />
+      <workItem from="1704172096061" duration="2303000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -313,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704123681514</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="17.람다">
+      <option name="closed" value="true" />
+      <created>1704125906820</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1704125906820</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,6 +363,7 @@
     <MESSAGE value="14.다양한 클래스" />
     <MESSAGE value="15.배열과 컬렉션" />
     <MESSAGE value="16.함수" />
-    <option name="LAST_COMMIT_MESSAGE" value="16.함수" />
+    <MESSAGE value="17.람다" />
+    <option name="LAST_COMMIT_MESSAGE" value="17.람다" />
   </component>
 </project>
