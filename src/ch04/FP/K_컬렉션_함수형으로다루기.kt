@@ -4,7 +4,7 @@ class K_컬렉션_함수형으로다루기 {
 }
 
 //////////////////// 필터와 맵 ////////////////////
-// filter
+// filter = 필터링한 결과 반환
 val apples = fruits.filter { fruit -> fruit.name == "사과" }
 
 // filterIndexed = 인덱스가 필요한 경우
@@ -13,7 +13,7 @@ val apples2 = fruits.filterIndexed { idx, fruit ->
     fruit.name == "사과"
 }
 
-// map
+// map = 맵핑된 결과를 리스트로 반환
 val applePrices = fruits.filter { fruit -> fruit.name == "사과" }
     .map { fruit -> fruit.currentPrice }
 

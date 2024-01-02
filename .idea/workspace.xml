@@ -78,7 +78,7 @@
       <recent name="$PROJECT_DIR$/src/ch03/OOP" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.K_코틀린기타등등Kt">
+  <component name="RunManager" selected="Kotlin.K_scope_functionKt">
     <configuration name="K_클래스Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch03.OOP.K_클래스Kt" />
       <module name="JavaToKotlin" />
@@ -100,9 +100,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="K_scope_functionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch05.코틀린특성.K_scope_functionKt" />
+      <module name="JavaToKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.K_코틀린기타등등Kt" />
+        <item itemvalue="Kotlin.K_scope_functionKt" />
         <item itemvalue="Kotlin.K_클래스Kt" />
       </list>
     </recent_temporary>
@@ -141,7 +148,8 @@
       <workItem from="1704157041301" duration="256000" />
       <workItem from="1704157345922" duration="594000" />
       <workItem from="1704172096061" duration="11343000" />
-      <workItem from="1704198480790" duration="2759000" />
+      <workItem from="1704198480790" duration="4122000" />
+      <workItem from="1704202620947" duration="1999000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -343,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704174419758</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="19.코틀린 기타등등">
+      <option name="closed" value="true" />
+      <created>1704201263227</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1704201263227</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,6 +398,7 @@
     <MESSAGE value="16.함수" />
     <MESSAGE value="17.람다" />
     <MESSAGE value="18.컬렉션 함수형으로 다루기" />
-    <option name="LAST_COMMIT_MESSAGE" value="18.컬렉션 함수형으로 다루기" />
+    <MESSAGE value="19.코틀린 기타등등" />
+    <option name="LAST_COMMIT_MESSAGE" value="19.코틀린 기타등등" />
   </component>
 </project>

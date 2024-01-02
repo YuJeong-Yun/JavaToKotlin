@@ -29,7 +29,9 @@ typealias USGTMap = Map<String, UltraSuperGuardianTribe>
 
 // data class는 가지고 있는 필드에 대해 componentN 이라는 함수를 자동으로 만들어줌
 // componentN = N번째 프로퍼티를 가져옴
-data class Person(val name: String, val age: Int)
+data class Person(val name: String, val age: Int) {
+    var hobby = ""
+}
 
 fun main() {
     val person = Person("이름", 100)
