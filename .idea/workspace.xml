@@ -78,9 +78,16 @@
       <recent name="$PROJECT_DIR$/src/ch03/OOP" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.K_코틀린기타등등Kt">
     <configuration name="K_클래스Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch03.OOP.K_클래스Kt" />
+      <module name="JavaToKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="K_코틀린기타등등Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch05.코틀린특성.K_코틀린기타등등Kt" />
       <module name="JavaToKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.K_코틀린기타등등Kt" />
         <item itemvalue="Kotlin.K_클래스Kt" />
       </list>
     </recent_temporary>
@@ -132,7 +140,8 @@
       <workItem from="1704127659708" duration="988000" />
       <workItem from="1704157041301" duration="256000" />
       <workItem from="1704157345922" duration="594000" />
-      <workItem from="1704172096061" duration="2303000" />
+      <workItem from="1704172096061" duration="11343000" />
+      <workItem from="1704198480790" duration="2759000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -326,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704125906820</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="18.컬렉션 함수형으로 다루기">
+      <option name="closed" value="true" />
+      <created>1704174419758</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1704174419758</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,6 +381,7 @@
     <MESSAGE value="15.배열과 컬렉션" />
     <MESSAGE value="16.함수" />
     <MESSAGE value="17.람다" />
-    <option name="LAST_COMMIT_MESSAGE" value="17.람다" />
+    <MESSAGE value="18.컬렉션 함수형으로 다루기" />
+    <option name="LAST_COMMIT_MESSAGE" value="18.컬렉션 함수형으로 다루기" />
   </component>
 </project>
